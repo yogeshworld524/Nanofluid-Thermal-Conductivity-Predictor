@@ -1,0 +1,11 @@
+Temperature,Concentration,Particle,BaseFluid,ThermalConductivity
+25,0.01,Al2O3,Water,0.635
+30,0.02,Al2O3,Water,0.652
+35,0.03,GNP,Water,0.71
+40,0.04,MWCNT,Water,0.745
+45,0.05,GNP,Water,0.785
+50,0.02,TiO2,Water,0.69
+55,0.03,CuO,Water,0.735
+60,0.04,Al2O3,EG,0.72
+65,0.05,GNP,EG,0.81
+70,0.06,MWCNT,POE,0.865
